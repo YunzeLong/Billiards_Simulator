@@ -1,5 +1,6 @@
 # Billiards Simulator
-A billiards simulator running on localhost.
+A billiards simulator running on localhost.</br>
+Jointly developed by Yunze Long, Di Wu, Zihan Liu, and Youchuan Hu
 ## tiny-graphics.js 
 
 This is a small, single file JavaScript utility.  It organizes WebGL programs to be object-oriented and minimally cluttered.  
