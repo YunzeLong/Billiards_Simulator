@@ -1,4 +1,6 @@
-# tiny-graphics.js
+# Billiards Simulator
+A billiards simulator running on localhost.
+## tiny-graphics.js 
 
 This is a small, single file JavaScript utility.  It organizes WebGL programs to be object-oriented and minimally cluttered.  
 
